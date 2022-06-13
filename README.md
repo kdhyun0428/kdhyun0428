@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김도현%kdhyun0428&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Do%hyun&fontSize=90)
 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdhyun0428&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
